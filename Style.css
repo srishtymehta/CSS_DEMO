@@ -1,0 +1,114 @@
+body{background:#F8E9CF; }
+h1{
+    text-align: center;
+color:#5E4F32;
+background:#ECC77E;
+font-size:45px;
+border: solid;
+padding: 10px;
+margin:50px 50px 50px 50px;}
+.pink {
+    color:chocolate;
+    font-size: 30px;
+line-height: 1.5;
+margin-left:550px;
+}
+.pink a{color:chocolate;
+font-size: 30px;}
+
+
+#smoothies h2{
+        color:#5E4F32;
+    font-size: 40px;
+    background: pink;
+    padding: 10px;
+    margin:50px 50px 50px 50px ;}
+    
+#smoothies img { 
+    margin-left: 50px;
+    border: solid;
+ }
+#smoothies a{color:chocolate;}
+
+#smoothies p{  
+    margin-left: 50px;
+    font-size:20px;
+}
+#smoothies h3{
+text-decoration-line:underline;
+text-decoration-color:;
+font-size:30px;
+    margin-left: 50px;
+}
+#smoothies ul{
+    font-size:20px;
+    line-height: 1.5;
+    margin-left: 50px;
+}
+#smoothies ol{
+    font-size:20px;
+    line-height: 1.5;
+    margin-left: 50px;  }
+#tiramisu h2{
+    color:#5E4F32;
+    font-size: 40px;
+    background: pink;
+    padding: 10px;
+    margin:50px 50px 50px 50px ;
+}
+#tiramisu img{ 
+    margin-left: 50px;
+    border: solid;}
+#tiramisu p{  
+    margin-left: 50px;
+    font-size:20px;}
+#tiramisu h3{
+text-decoration-line:underline;
+text-decoration-color:#996600;
+font-size:30px;
+    margin-left: 50px;}
+#tiramisu ul{
+    font-size:20px;
+    line-height: 1.5;
+    margin-left: 50px;
+}
+#tiramisu ol{
+  font-size:20px;
+    line-height: 1.5;
+    margin-left: 50px;  
+}
+#cake h2 
+{color:#5E4F32;
+    font-size: 40px;
+    background: pink;
+    padding: 10px;
+    margin:50px 50px 50px 50px ;}
+#cake img{ 
+    margin-left: 50px;
+    border: solid;} 
+#cake p{  
+    margin-left: 50px;
+    font-size:20px;} 
+#cake h3{
+text-decoration-line:underline;
+text-decoration-color:#996600;
+font-size:30px;
+    margin-left: 50px;}
+#cake ul{
+    font-size:20px;
+    line-height: 1.5;
+    margin-left: 50px;
+}
+#cake ol{
+    font-size:20px;
+    line-height: 1.5;
+    margin-left: 50px;
+} 
+footer{font-size: 30px;
+font-style: italic;
+border:2px 2px 2px 2px  dotted ;
+    color:#ffeecc;
+background:#996666 ;
+margin-left: 50px;
+    margin:0px 250px 0px 250px;
+text-align: center;}
